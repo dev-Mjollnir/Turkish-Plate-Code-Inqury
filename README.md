@@ -1,7 +1,8 @@
 # Turkish Plate Code Inqury
 
 ## Description in Turkish
-Proje için .Net 5.0 sürümü gereklidir.
+Proje için .Net 5.0 sürümü gereklidir.\
+Bu projede plaka ile şehir sorgulayabilir ve sorgu geçmişini canlı olarak izleyebilirsiniz.
 
 ## Kullanılanlar
 
@@ -15,7 +16,8 @@ Proje için .Net 5.0 sürümü gereklidir.
 > loglar log.json içinde tutulmuştur
 ------
 ## Description in English
-.Net 5.0 is required for project.
+.Net 5.0 is required for project.\
+In this project, you can inqury the city by plate code and also watch live the history of inqury.
 
 ## Used Technologies
 
